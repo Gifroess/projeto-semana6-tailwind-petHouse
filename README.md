@@ -19,14 +19,14 @@ O objetivo desta atividade foi aprofundar os conceitos fundamentais do **Tailwin
 -  Sidebar personalizada com categorias de adoção.
 -  Barra de pesquisa para encontrar animais.
 -  Cards personalizados contendo:
-  - Foto do pet;
-  - Nome;
-  - Sexo;
-  - Idade;
-  - Raça;
-  - Porte;
-  - Características;
-  - Abrigo responsável.
+   - Foto do pet;
+   - Nome;
+   - Sexo;
+   - Idade;
+   - Raça;
+   - Porte;
+   - Características;
+   - Abrigo responsável.
 -  Substituição das informações de imóveis por dados de ONGs e abrigos.
 -  Efeitos de hover, zoom nas imagens e transições utilizando Tailwind CSS.
 -  Layout totalmente responsivo para diferentes dispositivos.
